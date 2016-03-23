@@ -1,0 +1,10 @@
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\bin\Debug\Definition.S.exe.config
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\bin\Debug\Definition.S.exe
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\bin\Debug\Definition.S.pdb
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\bin\Debug\Definition.S.xml
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\obj\Debug\Definition.S.Form1.resources
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\obj\Debug\Definition.S.Resources.resources
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\obj\Debug\Definition.S.vbproj.GenerateResource.Cache
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\obj\Debug\Definition.S.exe
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\obj\Debug\Definition.S.xml
+c:\users\jaydon\documents\visual studio 2015\Projects\Definition.S\Definition.S\obj\Debug\Definition.S.pdb
