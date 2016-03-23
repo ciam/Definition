@@ -1,4 +1,2 @@
 # Definition
-Quick program that defines words.
-
-WIP
+Program that defines words.
